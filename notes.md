@@ -124,3 +124,36 @@
 ```html
 <!-- This is a comment -->
 ```
+
+## Input tag
+- Used to input different type of data based on the `type` attribute.
+
+```html
+<!-- Input type normal plain text -->
+<input type="text">
+
+<!-- Input a button -->
+<input type="button" value="Click me">
+
+<!-- Input a number -->
+<input type="number">
+
+<!-- Input a checkbox -->
+<input type="checkbox">
+
+<!-- Input a radio button -->
+<input type="radio">
+```
+
+- Refer mdn docs for more input types.
+
+# Select an option
+- Creates a dropdown list from which we can select our option.
+
+```html
+<select>Please select your choice:
+	<option>C++</option>
+	<option>Java</option>
+	<option>Python</option>
+</select>
+```
