@@ -41,3 +41,35 @@
 ```html
 <p>This is a paragraph</p>
 ```
+
+## List element
+
+-   We can put bullet point list by using the `<li>` element.
+
+### Ordered list
+
+-   Ordered list is a list in a particular order or sequence like 1, 2, 3... or a, b, c, ...
+
+```html
+<ol>
+	<li>Java</li>
+	<li>C++</li>
+	<li>Python</li>
+</ol>
+```
+
+![alt text](/images/Screenshot_20241001_070555.png)
+
+### Unordered list
+
+-   By default we get the unordered bullet list.
+
+```html
+<ul>
+	<li>Java</li>
+	<li>C++</li>
+	<li>Python</li>
+</ul>
+```
+
+![alt text](/images/Screenshot_20241001_070657.png)
