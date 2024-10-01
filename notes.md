@@ -33,3 +33,11 @@
 ...
 <h6>This is heading 6</h6>
 ```
+
+## Paragraph element
+
+-   Used to create paragraphs.
+
+```html
+<p>This is a paragraph</p>
+```
