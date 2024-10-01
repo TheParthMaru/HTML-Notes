@@ -118,3 +118,9 @@
 <video src="/assets/video.mp4"></video>
 <audio src="/assets/audio.mp3"></audio>
 ```
+
+## Comments
+
+```html
+<!-- This is a comment -->
+```
