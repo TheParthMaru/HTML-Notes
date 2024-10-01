@@ -109,3 +109,12 @@
 ```html
 <span>Yo</span>
 ```
+
+## Video and audio element
+- We can use `<video>` and `<audio>` elements to add video and audio respectively.
+- Make sure to add the `src` attribute.
+
+```html
+<video src="/assets/video.mp4"></video>
+<audio src="/assets/audio.mp3"></audio>
+```
