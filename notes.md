@@ -85,3 +85,27 @@
 ```html
 <img src = "https://hips.hearstapps.com/goodhousekeeping/assets/17/30/pembroke-welsh-corgi.jpg" alt="Dog image">
 ```
+
+## Inline and block tags
+- A block tag will always put the information of the next tag in a new line.
+- For two inline tags together, they both will be on the same line.
+
+### Division tag
+- A generic container for dividing or creating sections.
+
+```html
+<div>
+	<img src = "https://hips.hearstapps.com/goodhousekeeping/assets/17/30/pembroke-welsh-corgi.jpg" alt="Dog image">
+</div>
+```
+
+- We embedded the image inside the generic `<div>` container.
+- Every new `<div>` comes in a new line.
+- Hence, we say that `<div>` is a block element.
+
+### Span tag
+- Its an inline tag used to put information next to each other on the same line.
+
+```html
+<span>Yo</span>
+```
