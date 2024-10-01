@@ -73,3 +73,15 @@
 ```
 
 ![alt text](/images/Screenshot_20241001_070657.png)
+
+## Images
+
+- For any image on the internet, right click on the image > copy image address.
+- We can add image using `<img>` tag which is a self closing tag.
+- It has an attribute called `src` which represents the source of the image.
+- Another attribute is `alt` which acts as caption for the image and is only used when in screen reader mode.
+- The `alt` attribute is widely helpful for blind people.
+
+```html
+<img src = "https://hips.hearstapps.com/goodhousekeeping/assets/17/30/pembroke-welsh-corgi.jpg" alt="Dog image">
+```
